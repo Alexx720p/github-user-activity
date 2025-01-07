@@ -1,4 +1,4 @@
-Github user aactivity tracker
+Github user activity tracker
 
 Write python gh_user_act_tracker.py <Github username>
 
